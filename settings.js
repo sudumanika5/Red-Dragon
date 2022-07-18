@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          RED DRAGON v6.0
+//           KING SADU
 //
 //════════════(00)════════════════\\
 
@@ -26,7 +26,7 @@ global.owner = ['+94779581789'] //Owner number in aive msg
 global.premium = ['+94779581789'] //Owner Number info
 global.ownernomer = '+94779581789' //Owner Number <<<
 
-global.ownername = '😎KING SADU' //Owner Name
+global.ownername = '😎SANDUN THILINA' //Owner Name
 global.botname = ' ☬KING༒SADU࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
@@ -37,7 +37,7 @@ global.region = 'India, South India, Kerala' //Country Region
 global.packname = '☬KING༒SADU࿐' //Bot Pacage Name
 global.author = '😎KING SADU❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sessionName = 'session' //Session Name!
+global.sessionName = 'SANDUN' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_KING SADU.' //In list menu
@@ -54,7 +54,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉🙃Pleas Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
